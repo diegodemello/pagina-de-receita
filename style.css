@@ -64,3 +64,14 @@ li {
 ul {
     padding-left: 24px;
 }
+
+footer {
+    color: #291B1A;
+    text-align: center;
+    box-sizing: border-box;
+    margin-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+}
